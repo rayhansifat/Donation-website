@@ -136,7 +136,7 @@ p{
     margin-left: 2%;
     margin-right: 2%;
     padding: 5%;
-    margin-bottom: 10%;
+    margin-bottom: 20%;
     border-radius: 10px;
 }
 #id-no1{
@@ -158,3 +158,112 @@ background-position: 50% 50px;
     background-position: 50% 50px;
 }
 /* Third section work end here */
+.fourth{
+    display: flex;
+    margin-bottom: 15%;
+    padding-left: 1%;  
+   
+}
+.fourth h1{
+    text-align: center;
+    padding-top: 20%;
+}
+.fourth p{
+    padding: 5%;
+}
+.fourth-1{
+    width: 100%;
+}
+
+.fourth-1 img{
+    width: 50%;
+    padding-left: 20%;
+   
+}
+.fourth-1 button{
+    margin-left: 35%;
+    margin-bottom: 5%;
+    align-items: center;
+    text-align: center;
+    border: none;
+    background-color:red;
+    padding: 20px 20px;
+    border-radius: 10px;
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+}
+/* <!-- Fourth section work end here --> */
+
+/* <!-- Fifth section work start here --> */
+.fifth{
+    display: flex;
+    margin-bottom: 15%;
+    padding-left: 1%;
+}
+.fifth h1{
+    text-align: center;
+    padding-top: 20%;
+}
+.fifth p{
+    padding: 5%;
+}
+.fifth-1{
+    width: 100%;
+}
+.fifth-1 img{
+    width: 70%;
+    padding-left: 20%;
+}
+.fifth-1 button{
+    margin-left: 35%;
+    margin-bottom: 5%;
+    align-items: center;
+    text-align: center;
+    border: none;
+    background-color:red;
+    padding: 20px 20px;
+    border-radius: 10px;
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+}
+/* Fifth section work end here */
+
+/* sixth section work start here */
+.six{
+    display: flex;
+    margin-bottom: 15%;
+    padding-left: 1%;  
+   
+}
+.six h1{
+    text-align: center;
+    padding-top: 18%;
+}
+.six p{
+    padding: 5%;
+}
+.six-1{
+    width: 100%;
+}
+
+.six-1 img{
+    width: 70%;
+    padding-left: 20%;
+   
+}
+.six-1 button{
+    margin-left: 35%;
+    margin-bottom: 5%;
+    align-items: center;
+    text-align: center;
+    border: none;
+    background-color:red;
+    padding: 20px 20px;
+    border-radius: 10px;
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+}
+/* sixth section work end here  */
