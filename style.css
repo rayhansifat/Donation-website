@@ -108,7 +108,7 @@ p{
 /* Secound section work end here */
 
 
-/* hird section work start here */
+/* Third section work start here */
 .third-part{
     text-align: center;
 }
@@ -165,6 +165,7 @@ background-position: 50% 50px;
    
 }
 .fourth h1{
+    font-size: 30px;
     text-align: center;
     padding-top: 20%;
 }
@@ -202,6 +203,7 @@ background-position: 50% 50px;
     padding-left: 1%;
 }
 .fifth h1{
+    font-size: 30px;
     text-align: center;
     padding-top: 20%;
 }
@@ -238,6 +240,7 @@ background-position: 50% 50px;
    
 }
 .six h1{
+    font-size: 30px;
     text-align: center;
     padding-top: 18%;
 }
@@ -271,10 +274,11 @@ background-position: 50% 50px;
 /* <!-- seven section work start here --> */
 .seven{
     display: flex;
-    margin-bottom: 15%;
+    margin-bottom: 10%;
     padding-left: 1%;
 }
 .seven h1{
+    font-size: 30px;
     text-align: center;
     padding-top: 10%;
 }
@@ -302,3 +306,54 @@ background-position: 50% 50px;
     font-weight: 600;
 }
 /* seven section work end here */
+
+/* Eight section work end here  */
+
+.eight{
+        text-align: center;
+}
+.eight h1{
+    font-size: 52px;
+}
+.eight p{
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-bottom: 3%;
+}
+.eight-1{
+    
+    position: relative;
+    margin-bottom: 150px;
+    margin-left: 420px;
+    width: 45%;
+    padding: 50px;
+    background-color: bisque;
+    padding: 100px;
+    text-align: center;
+}
+.eight-1 input{
+    font-size: 18px;
+    width: 40%;
+    border: none;
+    padding: 18px 20px;
+    margin-right: 10px;
+    outline: none;
+    background: #C0C0C0;
+    border-radius: 5px;
+}
+.eight-1 button{
+   color: white;
+   font-size: 18px;
+   text-transform: uppercase;
+   border: none;
+   border-radius: 5px;
+   padding: 18px 20px; 
+   background-color: red;
+}
+
+footer{
+    background: black;
+    text-align: center;
+    color: red;
+    padding: 30px;
+}
